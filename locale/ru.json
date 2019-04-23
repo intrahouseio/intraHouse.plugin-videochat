@@ -1,0 +1,14 @@
+{
+  "Token": "License key",
+  "Wsport": "Trasnport port WebSocket",
+  "Order": "№ пп",
+  "Id": "Id",
+  "Url": "Url",
+  "Type": "Type",
+  "Transport": "Transport (Client - Server)",
+  "Protocol": "Protocol",
+  "Cam": "Cam",
+  "Name": "Наименование",
+  "Txt": "Текст для навигатора",
+  "Comment": "Комментарий"
+}
